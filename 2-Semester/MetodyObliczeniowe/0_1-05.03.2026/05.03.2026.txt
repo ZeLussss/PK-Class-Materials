@@ -1,0 +1,14 @@
+ZAWSZE PIERWSZE LINIJKI MATLAB:
+clc;
+clear;
+
+Zapisywanie danych:
+A = []; -> tworzy pustą, niesprecyzowaną tablice, jakbyśmy stworzyli bez tablicy, to potem w kodzie jest problem
+k = 5; 	-> tworzy macierz 1x1, czyli tak jakby zmienna
+
+Pętle:
+for, if, itd.
+
+zapis: 
+for z=1:k		-> od 1 do 5
+end			-> ZAWSZE MUSI BYĆ

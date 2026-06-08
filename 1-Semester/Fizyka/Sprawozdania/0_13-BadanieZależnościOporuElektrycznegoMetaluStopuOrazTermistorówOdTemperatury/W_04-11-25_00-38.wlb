@@ -1,0 +1,414 @@
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 oporu elektrycznego dla Niklu, PTC, NTC oraz Konstantanu w zale\'bfno\'9cci od temperatury\par
+}
+
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r elektryczny R [\f1\'d9\f0  dla Niklu, NTC, Konstantanu, d\f1\'d9\f0  dla PTC]\par
+}
+
+:TytulOsiY
+
+Dane: 1
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 oporu R dla temperatury T dla Niklu\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r elektryczny R [\f1\'d9\f0 ]\par
+}
+:TytulOsiY
+TypFunkcji: 3
+StopienWielomianu: 4
+TypLinii: 0	255	3
+TypPunktu: 0	255	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	1.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	116,4
+298,15	118,8
+303,15	122,2
+308,15	125,8
+313,15	128,4
+318,35	132,7
+323,15	135,9
+328,15	139,4
+333,15	142,9
+338,15	146,6
+343,15	150,6
+348,15	154,3
+353,15	157,9
+358,15	161,8
+</XY>
+
+Dane: 2
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 oporu termistora PTC w zale\'bfno\'9cci od temperatury\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r Elektryczny R [d\f1\'d9\f0 ]\par
+}
+:TytulOsiY
+TypFunkcji: 8
+StopienWielomianu: 4
+TypLinii: 0	16711680	3
+TypPunktu: 1	16711680	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	8,06
+298,15	8,07
+303,15	8,18
+308,15	8,43
+313,15	8,86
+318,35	9,59
+323,15	10,61
+328,15	12,23
+333,15	15,17
+338,15	21,38
+343,15	34,08
+348,15	58,73
+353,15	107,76
+358,15	210,52
+</XY>
+
+Dane: 3
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 oporu termistora NTC zale\'bfnego od temperatury T\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r Elektryczny R [\f1\'d9\f0 ]\par
+}
+:TytulOsiY
+TypFunkcji: 6
+StopienWielomianu: 4
+TypLinii: 0	16711935	3
+TypPunktu: 2	16711935	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	215,2
+298,15	202,6
+303,15	186,2
+308,15	170,3
+313,15	155,8
+318,35	142,4
+323,15	130,8
+328,15	119,4
+333,15	109,4
+338,15	100,6
+343,15	92,8
+348,15	86
+353,15	79,7
+358,15	73,8
+</XY>
+
+Dane: 4
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Op\'f3r elektryczny dla Konstantanu w zale\'bfno\'9cci od temperatury T\par
+}
+
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r Elektryczny [\f1\'d9\f0 ]\par
+}
+
+:TytulOsiY
+TypFunkcji: 1
+StopienWielomianu: 4
+TypLinii: 0	4259584	3
+TypPunktu: 4	65280	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 1
+<XY>
+294,15	111,4
+298,15	111,4
+303,15	111,4
+308,15	111,4
+313,15	111,4
+318,35	111,3
+323,15	111,3
+328,15	111,3
+333,15	111,3
+338,15	111,3
+343,15	111,2
+348,15	111,2
+353,15	111,2
+358,15	111,1
+</XY>
+
+Dane: 5
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 wsp\'f3\'b3czynnika \f1 a\f0  od temperatury\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Wsp\'f3\'b3czynnik temperaturowy \f1 a\f0\par
+}
+:TytulOsiY
+TypFunkcji: 31
+StopienWielomianu: 4
+TypLinii: 0	33023	3
+TypPunktu: 3	0	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	-0,02069
+298,15	-0,02014
+303,15	-0,01948
+308,15	-0,01885
+313,15	-0,01825
+318,35	-0,01766
+323,15	-0,01714
+328,15	-0,01662
+333,15	-0,01613
+338,15	-0,01565
+</XY>
+
+Dane: 6
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 oporu termistora PTC w zale\'bfno\'9cci od temperatury T\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset161{\*\fname Times New Roman;}Times New Roman Greek;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Op\'f3r elektryczny R [\f1\'d9\f0 ]\par
+}
+:TytulOsiY
+TypFunkcji: 8
+StopienWielomianu: 4
+TypLinii: 0	32768	3
+TypPunktu: 1	0	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	80,6
+298,15	80,7
+303,15	81,8
+308,15	84,3
+313,15	88,6
+318,35	95,9
+323,15	106,1
+328,15	122,3
+333,15	151,7
+338,15	213,8
+343,15	340,8
+348,15	587,3
+353,15	1077,6
+358,15	2105,2
+</XY>
+
+Dane: 7
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Tytu\'b3 wykresu\fs28\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Opis osi X\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Opis osi Y\par
+}
+:TytulOsiY
+TypFunkcji: 8
+StopienWielomianu: 4
+TypLinii: 0	0	3
+TypPunktu: 0	0	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	0,00423
+298,15	0,00722
+303,15	0,0138
+308,15	0,0252
+313,15	0,0428
+318,35	0,0667
+323,15	0,0895
+328,15	0,109
+333,15	0,123
+338,15	0,131
+343,15	0,135
+348,15	0,137
+353,15	0,138
+358,15	0,139
+</XY>
+
+Dane: 8
+TytulWykresu:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Tytu\'b3 wykresu\fs28\par
+}
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Opis osi X\par
+}
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Opis osi Y\par
+}
+:TytulOsiY
+TypFunkcji: 8
+StopienWielomianu: 4
+TypLinii: 0	0	1
+TypPunktu: 0	0	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+21	80,6
+25	80,7
+30	81,8
+35	84,3
+40	88,6
+45,2	95,9
+50	106,1
+55	122,3
+60	151,7
+65	213,8
+70	340,8
+75	587,3
+80	1077,6
+85	2105,2
+</XY>
+
+Dane: 9
+TytulWykresu:
+{\rtf1\ansi\ansicpg1250\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs32 Zale\'bfno\'9c\'e6 wsp\'f3\'b3czynnika \f1 a\f0  od temperatury\par
+}
+
+:TytulWykresu
+TytulOsiX:
+{\rtf1\ansi\ansicpg1250\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Temperatura T [K]\par
+}
+
+:TytulOsiX
+TytulOsiY:
+{\rtf1\ansi\ansicpg1250\deff0{\fonttbl{\f0\fnil\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\qc\lang1045\f0\fs28 Wsp\'f3\'b3czynnik temperaturowy \f1 a \f0 w zale\'bfno\'9cci od T\par
+}
+
+:TytulOsiY
+TypFunkcji: 31
+StopienWielomianu: 6
+TypLinii: 0	0	3
+TypPunktu: 0	0	16777215	10
+Przeliczniki:  0	1.000000	0.000000	0	1.000000	0.000000
+Pochodna: 0
+WspFotooporu: 0
+Logarytmy: 0	0
+SkalaLog: 0	0
+RowneSkale: 0
+DolaczDoWykresu: 0
+<XY>
+294,15	0,004227901
+298,15	0,007224737
+303,15	0,013795339
+308,15	0,025203466
+313,15	0,042832354
+318,35	0,066677558
+323,15	0,089492995
+328,15	0,109161113
+333,15	0,122567789
+338,15	0,13054761
+343,15	0,13491943
+348,15	0,137206284
+353,15	0,138373599
+358,15	0,138962011
+</XY>

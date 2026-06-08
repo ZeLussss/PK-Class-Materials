@@ -1,0 +1,11 @@
+Imie,Nazwisko,Wiek,Jezyki
+Ksawery,Zelek,20,"['C++', 'Python']"
+Anna,Kowalska,25,"['Java', 'Python']"
+Jan,Nowak,30,"['JavaScript', 'PHP']"
+Maria,Wiśniewska,28,"['Python', 'C#']"
+Piotr,Zając,22,"['Assembly', 'C']"
+Katarzyna,Mazur,27,"['Ruby', 'Python']"
+Tomasz,Lewandowski,35,"['Go', 'Java']"
+Magdalena,Wójcik,24,"['Swift', 'Kotlin']"
+Paweł,Kamiński,29,"['Rust', 'Python']"
+Joanna,Krawczyk,26,"['TypeScript', 'JavaScript']"

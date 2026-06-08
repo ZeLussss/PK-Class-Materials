@@ -1,0 +1,6 @@
+To jest pierwsza linia pliku 0_3-zad3.txt
+To jest druga linia pliku 0_3-zad3.txt
+To jest trzecia linia pliku 0_3-zad3.txt
+To jest czwarta linia pliku 0_3-zad3.txt
+To jest piąta linia pliku 0_3-zad3.txt
+To jest szósta linia pliku 0_3-zad3.txt

@@ -1,0 +1,50 @@
+[
+    {
+        "Imie": "Anna",
+        "Wiek": 29,
+        "Dzial": "HR",
+        "Czas pracy": 3
+    },
+    {
+        "Imie": "Tomasz",
+        "Wiek": 35,
+        "Dzial": "IT",
+        "Czas pracy": 7
+    },
+    {
+        "Imie": "Maria",
+        "Wiek": 41,
+        "Dzial": "HR",
+        "Czas pracy": 10
+    },
+    {
+        "Imie": "Jan",
+        "Wiek": 26,
+        "Dzial": "FR",
+        "Czas pracy": 2
+    },
+    {
+        "Imie": "Katarzyna",
+        "Wiek": 38,
+        "Dzial": "IT",
+        "Czas pracy": 9
+    },
+    {
+        "Imie": "Piotr",
+        "Wiek": 33,
+        "Dzial": "HR",
+        "Czas pracy": 5
+    },
+    {
+        "Imie": "Agnieszka",
+        "Wiek": 45,
+        "Dzial": "FR",
+        "Czas pracy": 15
+    },
+    {
+        "Imie": "Marek",
+        "Wiek": 30,
+        "Dzial": "IT",
+        "Czas pracy": 4
+    }
+]
