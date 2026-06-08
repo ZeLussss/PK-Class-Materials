@@ -1,0 +1,23 @@
+// Preorder
+root, left, right
+
+// Inorder
+left, root, right
+
+// Postorder
+left, right, root
+
+// BFS
+poziomami, kolejka
+
+// BST
+lewe mniejsze, prawe większe
+
+// Wysokość
+1 + max( wysokość lewego, wysokość prawego )
+
+// Liczba wierzchołków
+1 + lewe + prawe
+
+// Suma
+root->value + lewe + prawe

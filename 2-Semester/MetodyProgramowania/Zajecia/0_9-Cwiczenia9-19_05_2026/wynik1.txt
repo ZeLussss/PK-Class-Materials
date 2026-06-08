@@ -1,0 +1,114 @@
+START
+------------------------------------------------------------
+Wezel: (-, -, -, -, -)
+level = -1
+profit = 0
+weight = 0
+bound = 100.00
+Wezel jest obiecujacy.
+Schodzimy do kolejnych dzieci wezla.
+------------------------------------------------------------
+Wezel: (1, -, -, -, -)
+level = 0
+profit = 20
+weight = 2
+bound = 100.00
+Nowe najlepsze rozwiazanie.
+best = 20
+Wezel jest obiecujacy.
+Schodzimy do kolejnych dzieci wezla.
+------------------------------------------------------------
+Wezel: (1, 1, -, -, -)
+level = 1
+profit = 50
+weight = 7
+bound = 100.00
+Nowe najlepsze rozwiazanie.
+best = 50
+Wezel jest obiecujacy.
+Schodzimy do kolejnych dzieci wezla.
+------------------------------------------------------------
+Wezel: (1, 1, 1, -, -)
+level = 2
+profit = 85
+weight = 14
+bound = 100.00
+Nowe najlepsze rozwiazanie.
+best = 85
+Wezel jest obiecujacy.
+Schodzimy do kolejnych dzieci wezla.
+------------------------------------------------------------
+Wezel: (1, 1, 1, 1, -)
+level = 3
+profit = 97
+weight = 17
+bound = 100.00
+Nowe najlepsze rozwiazanie.
+best = 97
+Wezel jest obiecujacy.
+Schodzimy do kolejnych dzieci wezla.
+------------------------------------------------------------
+Wezel: (1, 1, 1, 1, 1)
+level = 4
+profit = 100
+weight = 18
+bound = 100.00
+Nowe najlepsze rozwiazanie.
+best = 100
+Osiagnieto lisc drzewa.
+Powrot.
+------------------------------------------------------------
+Wezel: (1, 1, 1, 1, 0)
+level = 4
+profit = 97
+weight = 17
+bound = 97.00
+Osiagnieto lisc drzewa.
+Powrot.
+------------------------------------------------------------
+Wezel: (1, 1, 1, 0, -)
+level = 3
+profit = 85
+weight = 14
+bound = 88.00
+Wezel nie jest obiecujacy.
+bound <= best
+Odciecie galezi.
+Powrot.
+------------------------------------------------------------
+Wezel: (1, 1, 0, -, -)
+level = 2
+profit = 50
+weight = 7
+bound = 65.00
+Wezel nie jest obiecujacy.
+bound <= best
+Odciecie galezi.
+Powrot.
+------------------------------------------------------------
+Wezel: (1, 0, -, -, -)
+level = 1
+profit = 20
+weight = 2
+bound = 70.00
+Wezel nie jest obiecujacy.
+bound <= best
+Odciecie galezi.
+Powrot.
+------------------------------------------------------------
+Wezel: (0, -, -, -, -)
+level = 0
+profit = 0
+weight = 0
+bound = 80.00
+Wezel nie jest obiecujacy.
+bound <= best
+Odciecie galezi.
+Powrot.
+------------------------------------------------------------
+WYNIK KONCOWY
+------------------------------------------------------------
+Najwiekszy zysk: 100
+x = (1, 1, 1, 1, 1)
+Wybrane przedmioty: 1 2 3 4 5 
+Waga = 18

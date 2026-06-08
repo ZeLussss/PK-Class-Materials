@@ -1,0 +1,12 @@
+1. Algorytm z powrotami
+To metoda, w której próbujesz budować rozwiązanie krok po kroku.
+Jeśli w pewnym momencie nie da się kontynuować poprawnie, cofasz się i próbujesz innej możliwości.
+
+2. 3 własności
+Rozwiązanie budowane jest etapami, czyli krok po kroku dodajesz kolejne elementy.
+Po każdym kroku sprawdzasz, czy obecne częściowe rozwiązanie ma sens i może prowadzić do poprawnego wyniku.
+Jeśli coś jest błędne, algorytm cofa się i próbuje inną opcję.
+
+3. Przykład
+Chcesz ułożyć liczby 1, 2, 3 bez powtórzeń, więc zaczynasz od [1], potem [1, 2], potem [1, 2, 3].
+Gdy nie da się iść dalej, cofasz się, na przykład z [1, 2] do [1], i próbujesz [1, 3].

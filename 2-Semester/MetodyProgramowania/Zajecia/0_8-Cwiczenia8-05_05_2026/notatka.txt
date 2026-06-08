@@ -1,0 +1,18 @@
+- Dynamiczne programowanie 
+:   To metoda optymalizacji polegająca na dzieleniu złożonego problemu na mniejsze, 
+    powtarzające się fragmenty i zapisywaniu ich wyników, aby nie obliczać wielokrotnie tego samego.
+
+- Problem plecakowy (KNAPSACK PROBLEM)
+:   Cel: Wybrać przedmioty o najwyższej łącznej wartości, nie przekraczając limitu wagi plecaka.
+    Mechanizm: Dla każdego przedmiotu sprawdzamy, co się bardziej opłaca:
+    a | wziąć go (zajmując miejsce), 
+    b | zostawić go (zachowując miejsce na inne rzeczy).
+    Dlaczego DP: Metoda ta gwarantuje znalezienie idealnej kombinacji, której nie daje podejście "na oko" (zachłanne).
+
+ZAJĘCIA
+
+1) Koncepcja
+2) Inicjacja
+3) Progresja
+
+1) -> Na zapis informatyczny (Wektor 1D/2D)
